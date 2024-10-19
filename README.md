@@ -1,6 +1,6 @@
 <br clear="both">
 
-<p align="left">Hello World!! Say welcome to the open source!<br>Resist the close source!</p>
+<h2 align="center">Hello World!! <br>Say welcome to the open source!<br>Resist the close source!</h2>
 
 ###
 
@@ -12,10 +12,8 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="https://tenor.com/hr/view/space-gif-space-gif-space-galaxy-serverinviteaspace-gif-21015588"  />
+  <img height="300" src="https://giffiles.alphacoders.com/152/152194.gif"  />
 </div>
 
 ###
