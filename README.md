@@ -1,6 +1,10 @@
+<br clear="both">
+
 <p align="left">Hello World!! Say welcome to the open source!<br>Resist the close source!</p>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ElizabethWega/count.svg?"  />
@@ -8,11 +12,15 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://gifs.alphacoders.com/gifs/view/212822"  />
+  <img height="200" src="https://tenor.com/hr/view/space-gif-space-gif-space-galaxy-serverinviteaspace-gif-21015588"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -32,6 +40,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="https://discordapp.com/users/477557986500411425" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -40,9 +50,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="52" height="40" alt="matrix logo"  />
   </a>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ElizabethWega/ElizabethWega/output/snake.svg" alt="Snake animation" />
 
 ###
