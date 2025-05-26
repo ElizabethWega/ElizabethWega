@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
@@ -20,7 +20,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://matrix.to/#/@lyrawega:matrix.org)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/matrix/default.svg" width="52" height="40" alt="matrix logo"  />
   </a>
