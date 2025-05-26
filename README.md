@@ -4,14 +4,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ElizabethWega/count.svg?"  />
-</div>
-
-###
-
 <div align="center">
   <img height="300" src="https://giffiles.alphacoders.com/152/152194.gif"  />
 </div>
